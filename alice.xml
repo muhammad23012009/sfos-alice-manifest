@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="device/huawei/alice" name="DarkJoker360/android_device_huawei_alice" revision="cm-14.1" remote="github" />
+ <project path="kernel/huawei/alice" name="muhammad23012009/android_kernel_huawei_hi6210sft" revision="halium-7.1" remote="github" />
+ <project path="vendor/huawei/alice" name="DarkJoker360/android_vendor_huawei_alice" revision="cm-14.1" remote="github" />
+</manifest>
